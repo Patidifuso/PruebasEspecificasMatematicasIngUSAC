@@ -46,6 +46,7 @@
     c) $\frac{1}{18}$ &emsp;&emsp;&emsp;
     d) $\frac{1}{2}$ &emsp;&emsp;&emsp;
     e) $\frac{1}{3}$ &emsp;&emsp; &emsp;
+
 ---
 6. ### &emsp; $\frac{21^{104}}{(7^{103})(3^{102})}$ =
 

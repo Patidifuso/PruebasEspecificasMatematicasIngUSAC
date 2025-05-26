@@ -20,8 +20,7 @@ $$(1+\sqrt{5})(1-\sqrt{5}) = 1^2 - (\sqrt{5})^2$$
 - $$1^2 = 1$$
 - $$(\sqrt{5})^2 = 5$$
 
-## Paso 3: Sustituir los valores en la expresión
-- Ahora sustituimos los valores en la expresión:
-$$(1+\sqrt{5})(1-\sqrt{5}) = 1 - 5$$
 
-- $$1 - 5 = -4$$
+- Entonces la expresión se convierte en:
+
+- $$\boxed{1 - 5 = -4}$$

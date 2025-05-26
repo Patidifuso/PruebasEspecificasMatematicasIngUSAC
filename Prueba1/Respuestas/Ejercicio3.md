@@ -33,7 +33,8 @@ $$1.0 \times 10^{k-3} > 1.0 \times 10^3$$
 En este caso, como las bases son iguales (ambas son 10), podemos comparar los exponentes directamente:
 
 $$k - 3 > 3$$
-$$k > 6$$
+$$k > 3+3$$
+$$\boxed{k > 6}$$
 
 
 
