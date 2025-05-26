@@ -55,6 +55,7 @@
     c) $147$ &emsp;&emsp;&emsp;
     d) $7$ &emsp;&emsp;&emsp;
     e) $63$ &emsp;&emsp;&emsp;
+
 ---
 7. ¿Qué número es el que sigue la sucesión: $1, 8, 27, 64, ...$
 

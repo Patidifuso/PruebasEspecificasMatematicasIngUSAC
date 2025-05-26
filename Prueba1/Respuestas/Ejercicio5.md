@@ -9,7 +9,7 @@ e) $\frac{1}{3}$ &emsp;&emsp; &emsp;
 
 - La clave para resolver este problema es entender lo que nos etan pidiendo. Nos piden calcular $\frac{2}{3}$ del $50\%$.
 
-## Paso 1: Convertir el $50\%$ a fracción.
+## Paso 1: Convertir el $50$% a fracción.
 El $50\%$ se puede expresar como una fracción. Recordemos que el porcentaje es una forma de expresar una fracción con denominador $100$. Por lo tanto, $50\%$ se convierte en: 
 
 $$50\% = \frac{50}{100} = \frac{1}{2}$$
