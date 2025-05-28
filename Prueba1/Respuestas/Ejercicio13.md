@@ -33,6 +33,8 @@ $$x = \frac{wuy}{y}$$
 
 $$\boxed{x = \frac{wu \cancel{y} }{ \cancel{y} }= wu}$$
 
+$$\boxed{x = \frac{wu y }{ y }= wu}$$
+
 
 
 
