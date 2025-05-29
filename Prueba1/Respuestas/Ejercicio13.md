@@ -30,10 +30,8 @@ $$z = wuy$$
 $$x = \frac{wuy}{y}$$
 
 - Simplificamos la expresión:
+- $$\boxed{x = wu}$$
 
-$$\boxed{x = \frac{wu \cancel{y} }{ \cancel{y} }= wu}$$
-
-$$\boxed{x = \frac{wu y }{ y }= wu}$$
 
 
 
