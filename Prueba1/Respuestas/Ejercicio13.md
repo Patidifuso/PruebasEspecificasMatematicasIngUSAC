@@ -30,7 +30,7 @@ $$z = wuy$$
 $$x = \frac{wuy}{y}$$
 
 - Simplificamos la expresión:
-$$\boxed{x = wu}$$
+- $$\boxed{x = wu}$$
 
 
 
