@@ -1,4 +1,4 @@
-# 🎯 1. Objetivos de la guía
+# 🎯🎯 1. Objetivos de esta guía 🎯🎯
 
 Esta guía tiene como propósito ayudarte a mejorar en el aprendizaje de matemáticas. Algunos de sus objetivos son:
 
@@ -44,7 +44,7 @@ Esta guía tiene como propósito ayudarte a mejorar en el aprendizaje de matemá
 * 🧠 Repite los ejercicios más difíciles para que cada vez te cuesten menos.
 
 ---
-# ✨ 3. Aspectos que facilitan el aprendizaje de matemática
+# ✨✨ 3. Aspectos que facilitan el aprendizaje de matemática✨✨
 
 Para entender y aprender matemática con mayor facilidad y profundidad, es importante desarrollar varios aspectos clave. Aquí algunos de los más importantes:
 
@@ -67,89 +67,116 @@ Para entender y aprender matemática con mayor facilidad y profundidad, es impor
 17. 🔎 **Mentalidad crítica y analítica**  
   
 ---
-# 📚 ÍNDICE
+# 📚 CONTENIDO
 
 ## 🔢 UNIDAD 1  
 ### 🧮 Fundamentos de aritmética  
-1.1. 📐 Matemática y Número  
-1.2. 🔢 Conjunto de números naturales. Concepto de sucesor y antecesor.  
-1.3. ⚖️ Números pares e impares.  
-1.4. 🔍 Números primos y compuestos.  
-1.5. ➗ Múltiplos y divisores. Criterios de divisibilidad. Teorema fundamental de la Aritmética.  
-1.6. ➕➖ Conjunto de números enteros. Orden y valor absoluto.  
-1.7. 🧠 Operaciones elementales con números enteros y sus propiedades.  
-1.8. 🧩 Jerarquía de las operaciones con números enteros.  
-1.9. 📝 Resolución de problemas.  
-1.10. 🔁 Reconocimiento de patrones en sucesiones numéricas.
+- **1.1.** 🔢 Matemática y Número  
+- **1.2.** 💯 Conjunto de números naturales. Concepto de sucesor y antecesor.  
+- **1.3.** ⚖️ Números pares e impares.  
+- **1.4.** 🔍 Números primos y compuestos.  
+- **1.5.** ➗ Múltiplos y divisores. Criterios de divisibilidad. Teorema fundamental de la Aritmética.  
+- **1.6.** ➕➖ Conjunto de números enteros. Orden y valor absoluto.  
+- **1.7.** 🧠 Operaciones elementales con números enteros y sus propiedades.  
+- **1.8.** 🧩 Jerarquía de las operaciones con números enteros.  
+- **1.9.** 📝 Resolución de problemas.  
+- **1.10.** 🔁 Reconocimiento de patrones en sucesiones numéricas.
 
 ## ➗ UNIDAD 2  
 ### 📏 Números racionales: propiedades, operaciones y aplicaciones  
-2.1. 📘 Mínimo común múltiplo y Máximo común denominador.  
-2.2. 🧾 Fracciones equivalentes. Ampliación y simplificación de fracciones.  
-2.3. ⚖️ Comparación de fracciones.  
-2.4. 🔢 Operaciones elementales con números racionales y sus propiedades.  
-2.5. 🧮 Jerarquía de las operaciones con números racionales.  
-2.6. 🔣 Fracciones decimales.  
-2.7. 📊 Representación decimal de los números racionales.  
-2.8. 🧠 Resolución de problemas.
+- **2.1.** 📘 Mínimo común múltiplo y Máximo común denominador.  
+- **2.2.** 🧾 Fracciones equivalentes. Ampliación y simplificación de fracciones.  
+- **2.3.** ⚖️ Comparación de fracciones.  
+- **2.4.** 🔢 Operaciones elementales con números racionales y sus propiedades.  
+- **2.5.** 🧮 Jerarquía de las operaciones con números racionales.  
+- **2.6.** 🔣 Fracciones decimales.  
+- **2.7.** 📊 Representación decimal de los números racionales.  
+- **2.8.** 🧠 Resolución de problemas.
 
 ## 💥 UNIDAD 3  
 ### 🧬 Exponentes y radicales  
-3.1. 🔢 Potencias y raíces con números enteros y racionales.  
-3.2. 📏 Leyes de los exponentes y de los radicales.  
-3.3. ➕➖ Operaciones con potencias y radicales.  
-3.4. 🧭 Representación geométrica de algunas potencias y raíces.  
-3.5. 🔣 Operaciones con números reales.  
-3.6. 📝 Resolución de problemas.
+- **3.1.** 🔢 Potencias y raíces con números enteros y racionales.  
+- **3.2.** 📏 Leyes de los exponentes y de los radicales.  
+- **3.3.** ➕ Operaciones con potencias y radicales.  
+- **3.4.** 🧭 Representación geométrica de algunas potencias y raíces.  
+- **3.5.** 🔣 Operaciones con números reales.  
+- **3.6.** 📝 Resolución de problemas.
 
 ## 🧠 UNIDAD 4  
 ### 🧾 Fundamentos de álgebra de los números reales  
-4.1. 🗣️ Transición del lenguaje coloquial al lenguaje algebraico.  
-4.2. ✍️ Expresiones algebraicas. Simplificación de términos semejantes.  
-4.3. 🧮 Operaciones con polinomios.  
-4.4. 💡 Productos notables y sus aplicaciones.  
-4.5. 🔧 Factorización de polinomios.  
-4.6. ➗ Operaciones con fracciones algebraicas.  
-4.7. 🧠 Resolución de problemas.
+- **4.1.** 🗣️ Transición del lenguaje coloquial al lenguaje algebraico.  
+- **4.2.** ✍️ Expresiones algebraicas. Simplificación de términos semejantes.  
+- **4.3.** 🧮 Operaciones con polinomios.  
+- **4.4.** 💡 Productos notables y sus aplicaciones.  
+- **4.5.** 🔧 Factorización de polinomios.  
+- **4.6.** ➗ Operaciones con fracciones algebraicas.  
+- **4.7.** 🧠 Resolución de problemas.
 
 ## ⚖️ UNIDAD 5  
 ### 🔁 Proporcionalidad  
-5.1. 🧮 Razones y proporciones.  
-5.2. ➕ Proporcionalidad directa y su aplicación en la resolución de problemas.  
-5.3. ➖ Proporcionalidad inversa y su aplicación en la resolución de problemas.  
-5.4. 🧾 Reparto proporcional directo e inverso.  
-5.5. 🔗 Proporcionalidad compuesta y su aplicación en la resolución de problemas.
+- **5.1.** 🧮 Razones y proporciones.  
+- **5.2.** ➕ Proporcionalidad directa y su aplicación en la resolución de problemas.  
+- **5.3.** ➖ Proporcionalidad inversa y su aplicación en la resolución de problemas.  
+- **5.4.** 🧾 Reparto proporcional directo e inverso.  
+- **5.5.** 🔗 Proporcionalidad compuesta y su aplicación en la resolución de problemas.
 
 ---
 
 ## 🔍 UNIDAD 6  
 ### 🧮 Ecuaciones lineales y cuadráticas  
-6.1. ⚖️ Propiedades de la igualdad: reflexividad, simetría y transitividad.  
-6.2. 📐 Concepto de ecuación y principio para su solución.  
-6.3. 📊 Ecuaciones lineales. Ecuaciones equivalentes.  
-6.4. 🧠 Solución de ecuaciones lineales con una y dos incógnitas.  
-6.5. 🧮 Ecuaciones cuadráticas: Concepto y forma general.  
-6.6. 🔧 Solución de ecuaciones cuadráticas con raíces reales: factorización, por completación y por fórmula general.
+- **6.1.** ⚖️ Propiedades de la igualdad: reflexividad, simetría y transitividad.  
+- **6.2.** 📐 Concepto de ecuación y principio para su solución.  
+- **6.3.** 📊 Ecuaciones lineales. Ecuaciones equivalentes.  
+- **6.4.** 🧠 Solución de ecuaciones lineales con una y dos incógnitas.  
+- **6.5.** 🧮 Ecuaciones cuadráticas: Concepto y forma general.  
+- **6.6.** 🔧 Solución de ecuaciones cuadráticas con raíces reales: factorización, por completación y por fórmula general.
 
 ---
 
 ## 🧩 UNIDAD 7  
 ### 🧠 Aplicaciones de las ecuaciones lineales y cuadráticas  
-7.1. 🧰 Estrategias para la modelación y solución de problemas mediante ecuaciones.  
-7.2. ➕ Problemas que plantean condiciones aritméticas y problemas numéricos.  
-7.3. 🚗 Problemas de movimiento.  
-7.4. 🧪 Problemas de mezcla.  
-7.5. 💰 Problemas de inversión.  
-7.6. 📚 Otras aplicaciones.
+- **7.1.** 🧰 Estrategias para la modelación y solución de problemas mediante ecuaciones.  
+- **7.2.** ➕ Problemas que plantean condiciones aritméticas y problemas numéricos.  
+- **7.3.** 🚗 Problemas de movimiento.  
+- **7.4.** 🧪 Problemas de mezcla.  
+- **7.5.** 💰 Problemas de inversión.  
+- **7.6.** 📚 Otras aplicaciones.
 
 ---
 
-# 📐 UNIDAD 8  
-## 📏 Introducción a la geometría  
-8.1. 🟣 Elementos fundamentales: punto, recta y plano.  
-8.2. 📐 Ángulos: concepto, sistemas de medición, clasificación y propiedades.  
-8.3. 🔺 Triángulos: definición, clasificación, líneas notables, perímetro y área.  
-8.4. 📏 Teorema de Pitágoras y sus aplicaciones.  
-8.5. 🔷 Cuadriláteros: clasificación, cálculo de perímetros y áreas.  
-8.7. 🧊 Cuerpos geométricos: área superficial y volumen.  
-8.8. 🧠 Problemas de aplicación que vinculen el álgebra y la geometría.
+## 📐 UNIDAD 8  
+### 📏 Introducción a la geometría  
+- **8.1.** 🟣 Elementos fundamentales: punto, recta y plano. 
+- **8.2.** 📐 Ángulos: concepto, sistemas de medición, clasificación y propiedades. 
+- **8.3.** 🔺 Triángulos: definición, clasificación, líneas notables, perímetro y área. 
+- **8.4.** 📏 Teorema de Pitágoras y sus aplicaciones. 
+- **8.5.** 🔷 Cuadriláteros: clasificación, cálculo de perímetros y áreas. 
+- **8.7.** 🧊 Cuerpos geométricos: área superficial y volumen. 
+- **8.8.** 🧠 Problemas de aplicación que vinculen el álgebra y la geometría.
+---
+
+# 📚 Bibliografía Sugerida
+
+1. 🔢 **Matemática 5**  
+   *Ernest R. Duncan*  
+   Houghton Mifflin Company, Boston, Massachusetts, USA, 1985.
+
+2. 📘 **Matemáticas sin límites. Práctica**  
+   *Fennell, Reys, Reys, Webb*  
+   Holt, Rinehart and Winston, Inc., 1988.
+
+3. 📗 **Matemáticas 7**  
+   *Clara Luz Solares de Sánchez, Vilma López, Claudia Juárez*  
+   Editorial Santillana, 2005, Guatemala.
+
+4. 📙 **Matemáticas 9**  
+   *Clara Luz Solares de Sánchez, Iris Palencia Gramajo, Vilma López*  
+   Editorial Santillana, 2004, Guatemala.
+
+5. 🧠 **Lógica Matemática**  
+   *Pedro Gutiérrez*  
+   McGraw-Hill de México S.A. de C.V.
+
+6. 📐 **Principios de Lógica Matemática**  
+   *Mario S. Fernández*  
+   TEXDIGUA, Guatemala, Edición 2005.
