@@ -180,3 +180,96 @@ Para entender y aprender matemática con mayor facilidad y profundidad, es impor
 6. 📐 **Principios de Lógica Matemática**  
    *Mario S. Fernández*  
    TEXDIGUA, Guatemala, Edición 2005.
+
+7. 🧠 **Estrategias de razonamiento**  
+   *Ings. Jorge Estuardo Sánchez y Ovalle Rodríguez*  
+
+8. 📐 **Matemática, cuarto bachillerato**  
+   *César René Mejía*  
+
+9. 📝 **Manual de matemática**  
+   *Otto René Rojas*  
+   GUATEMALA, 2006. Manual basado en el contenido del nivel medio para exámenes de ingreso a la USAC.  
+
+10. 🔢 **Introducción al álgebra, a través de aritmética y geometría**  
+   *Ing. Mario René de León García*  
+   USAC. Editorial Estudiantil Fénix, 2007. GUATEMALA, COPESA.  
+
+11. 📏 **Geometría plana y del espacio**  
+   *Aurelio Baldor*  
+
+12. 🎓 **Matemáticas décimo grado (nivel 5)**  
+   *Christian R. Hirsch, Harold Schoen, Roland Larson, Robert Hostetler*  
+   McGraw-Hill, 1998. Universidad Nacional de Colombia.  
+
+13. 📕 **Álgebra**  
+   *Dr. Aurelio Baldor*  
+   Fundador, Director y Jefe de Cátedra de Matemáticas del Colegio Baldor, Habana Cuba. Jefe de Cátedra de Matemáticas Stevens Academy, Hoboken, New Jersey, USA.  
+
+14. 🧾 **Álgebra**  
+   *Elena de Oteyza, Carlos Hernández, Emma Lam Osnaya*  
+   Universidad Nacional Autónoma de México.  
+
+15. 🧮 **Álgebra y trigonometría con geometría analítica**  
+   *Swokowski-Cole*  
+   International Thomson Editores, S.A., México.  
+
+16. ➕ **Aritmética**  
+   *Dr. Aurelio Baldor*  
+   Fundador, Director y Jefe de Cátedra de Matemáticas del Colegio Baldor, Habana Cuba. Jefe de Cátedra de Matemáticas Stevens Academy, Hoboken, New Jersey, USA.  
+
+17. 🧙‍♂️ **El hombre que calculaba**  
+   *Malba Tahan*  
+
+18. ✏️ **Álgebra y trigonometría**  
+   *Sullivan*  
+   Pearson, Prentice Hall.  
+
+19. 📗 **Álgebra elemental**  
+   *Allen R. Ángel*  
+   Pearson, Prentice Hall.  
+
+20. 🧾 **Precálculo**  
+   *Stewart James*  
+   Quinta edición, Thomson Editores, México.  
+
+21. 📐 **Geometría de precálculo**  
+     
+
+22. 📚 **Guía teórica-práctica, matemáticas básicas**  
+   *Universidad Central de Venezuela*  
+   Facultad de Ciencias, Departamento de Matemáticas, Caracas, Venezuela, Julio 2009.  
+
+23. 🧮 **Álgebra elemental**  
+   *Alfonse Gobran*  
+   Grupo Editorial Iberoamérica, Impreso en México, 1990.  
+
+24. 🔢📘 **Álgebra y trigonometría**  
+   *Dennis Zill*  
+   Tercera edición, McGraw-Hill, Impreso en México, 1993.  
+
+25. 📖 **Álgebra elemental**  
+   *Jerome Rosenberg*  
+   Serie Schaum, sexta edición, McGraw-Hill, Impreso en México, 1980.  
+
+26. 🌐 **Sucesiones y series – Disfruta las Matemáticas**  
+   [http://www.disfrutalasmatematicas.com/algebra/sucesiones-series.html](http://www.disfrutalasmatematicas.com/algebra/sucesiones-series.html)  
+
+27. 📊 **Matemática para la administración y gerencia**  
+   *Dr. Leonel Morales Aldana*  
+   Primera edición, Editorial Súper Aprendizaje, Impreso en Guatemala, 1999.  
+
+28. 📝 **Guía práctica para examen de ingreso a la universidad**  
+   *CONAMAT*  
+   Editorial Pearson, Primera edición, México, 2009.  
+
+29. 📘 **Matemática I, módulo introductorio**  
+   *Prof. Patricia A. Casarosa*  
+   Universidad Nacional de la Patagonia, San Juan Bosco.  
+
+30. 📗 **Matemática 1,**
+   *Patricia Ibañez*  
+   Segunda Edición, Impreso en México, 2006.  
+
+
+
